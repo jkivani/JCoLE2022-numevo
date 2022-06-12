@@ -1,0 +1,36 @@
+---
+title: "Summary of posterior distributions for integration features"
+author: "chundra"
+date: "2/4/2022"
+output: pdf_document
+---
+
+Load all posteriors:
+
+```{r}
+require(rstan)
+require(bayesplot)
+
+x <- NULL
+
+for (i in 1:7) {
+  load(paste('rates_ratio_',i,'.Rdata'))
+  x <- cbind(x,extract(fit.full)$ratio)
+}
+
+colnames(x) <- colnames(ST.data)
+```
+
+Histograms showing posterior gain/loss ratios for each feature:
+
+```{r}
+mcmc_hist(x) + vline_at(1)
+```
+
+For each feature, what proportion of the posterior gain/loss ratios are greater than one (indicating long-term preference)?
+
+```{r}
+apply(x,2,function(x){length(which(x>1))/length(x)})
+```
+
+Multiple exponence and phrules are strongly dispreferred; there is strong evidence that fixed_position is preferred (in > 90% of samples), and decisive evidence that the remaining features are preferred.

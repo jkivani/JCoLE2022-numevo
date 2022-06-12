@@ -1,0 +1,77 @@
+glottocode,Language,Form,phrules?,concatenative?,multiple_exponence?,Not interruptable?,adjacent?,fixed_position?,first_slot?,Kin,Human,Anim,Inan
+bori1243,Adi,kidar,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+apat1240,Apatani,atan,0,0,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+athp1241,Athpare,-ci,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+aton1241,Atong,=daraŋ,0,1,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+bant1281,Bantawa,-ci,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+bawm1236,Bawm Chin,tlâ,0,0,0,0,0,0,0,FALSE,TRUE,TRUE,TRUE
+bisu1244,Bisu,zʏŋ33,0,0,0,1,1,1,0,TRUE,TRUE,TRUE,TRUE
+raut1239,Boto Boli,-la,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+gahr1239,Bunan,=ɕi,0,1,1,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+gahr1239,Bunan,=tsʰi,0,1,1,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+nucl1310,Burmese,-twei,1,1,0,1,1,1,1,FALSE,FALSE,TRUE,TRUE
+nucl1310,Burmese,-tó,1,1,0,1,1,1,1,TRUE,TRUE,FALSE,FALSE
+byan1241,Byangsi,-maŋ,0,1,0,1,1,1,1,FALSE,FALSE,TRUE,TRUE
+byan1241,Byangsi,-maŋ,0,1,0,1,1,1,1,TRUE,TRUE,FALSE,FALSE
+cant1236,Cantonese,-ə̀r,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+chan1313,Chang Naga,-ong,0,1,0,1,0,1,0,TRUE,TRUE,TRUE,FALSE
+chan1313,Chang Naga,shoung,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+chot1239,Chothe,-ɳəy,0,1,0,1,0,1,0,TRUE,TRUE,TRUE,TRUE
+chot1239,Chothe,-yam,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+clas1254,Classical Tibetan,-dag,0,1,0,1,1,0,1,TRUE,TRUE,TRUE,TRUE
+clas1254,Classical Tibetan,-tsho,0,1,0,1,1,0,1,TRUE,TRUE,TRUE,TRUE
+clas1254,Classical Tibetan,-tsag,0,1,0,1,1,0,1,TRUE,TRUE,TRUE,TRUE
+daai1236,Daai Chin,=e,0,1,0,1,1,0,1,TRUE,TRUE,TRUE,FALSE
+dhim1246,Dhimal,-lai,1,1,0,1,1,1,1,TRUE,TRUE,FALSE,FALSE
+dhim1246,Dhimal,-gelai,1,1,0,1,1,0,0,FALSE,FALSE,TRUE,TRUE
+ersu1241,Ersu,Ø,0,0,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+garo1247,Garo,-draŋ,0,1,0,0,0,1,0,TRUE,TRUE,TRUE,TRUE
+geba1237,Geba,dəlà,0,0,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+kadu1254,Kadu,-tàk,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+kadu1254,Kadu,-tē,0,1,0,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+karb1241,Karbi,-mar,0,1,0,1,1,1,1,TRUE,TRUE,FALSE,FALSE
+kaya1316,Kayah Monu,tàkʰlə,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+kham1282,Khams Tibetan,-nõ,0,1,0,0,1,0,1,TRUE,TRUE,TRUE,TRUE
+khar1288,Kharam,-ŋai,0,1,0,1,1,1,1,TRUE,FALSE,FALSE,FALSE
+khar1288,Kharam,-ni,0,1,0,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+sunw1242,Kiranti Koits,-dwa,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+koir1240,Koireng,-hai,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+komi1270,Kom,-həj,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+kony1248,Konyak,-lan,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+kulu1253,Kulung,-ci,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+lamk1238,Lamkang,rek,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+lash1243,Lashi,ba:ŋ,0,0,0,1,1,1,0,TRUE,TRUE,FALSE,FALSE
+lash1243,Lashi,dʑoem,0,0,0,1,1,1,0,FALSE,FALSE,TRUE,TRUE
+limb1266,Limbu,-gha,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+mana1288,Manange,=tse,0,1,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,TRUE,FALSE,TRUE,TRUE
+maon1238,Mao Naga,-ta,0,1,0,1,1,1,1,TRUE,FALSE,TRUE,TRUE
+cent2004,Minjia,xo,0,1,0,1,1,1,1,TRUE,TRUE,FALSE,FALSE
+diga1241,Mishmi,-wèlàn,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+misi1242,Mising,-kiriŋ,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+yong1270,Mosuo (Yongning Na),=æ,0,1,0,1,1,0,1,TRUE,TRUE,TRUE,FALSE
+mruu1242,Mru,-üa,0,0,0,0,0,0,0,TRUE,TRUE,FALSE,FALSE
+nort2723,Northern Pumi,= ɹəH,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+oldc1244,Old Chinese,Ø,0,0,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+puru1266,Purum,-ŋay,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+rabh1238,Rabha,-roɳ,0,1,0,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+rabh1238,Rabha,-taŋ,0,1,0,1,1,0,0,TRUE,FALSE,FALSE,FALSE
+rabh1238,Rabha,-bijan,0,1,0,1,1,1,1,FALSE,FALSE,TRUE,FALSE
+raji1240,Raji,-jəmməl,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+rong1264,Rongpo,-se,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+simt1238,Simte,-te,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+tang1336,Tangkhul Naga,-pin,0,1,0,1,1,1,1,FALSE,FALSE,TRUE,TRUE
+tara1313,Tarao,-əy,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+anga1288,Tenyidie,-kô,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+thad1238,Thado Chin,-hó,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+thul1246,Thulung,-mim,0,1,0,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+thul1246,Thulung,-mim,0,1,0,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+tsha1245,Tshangla,-ba,0,1,0,0,1,0,1,TRUE,TRUE,TRUE,TRUE
+sing1264,Turung (Northern Jinghpaw),theyng,0,0,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+sing1264,Turung (Northern Jinghpaw),ni,0,0,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+yakk1236,Yakkha,-ci,0,1,0,0,0,0,0,TRUE,TRUE,TRUE,TRUE
+zaiw1241,Zaiwa,-bʋue,1,1,0,1,1,1,1,TRUE,TRUE,TRUE,TRUE
